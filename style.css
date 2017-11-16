@@ -44,24 +44,18 @@ h2 {
     min-height: 200px;
     width: 320px;
     box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    background-color: #ffffff;
 }
 
-.column:nth-child(1) {
-    background-color: red;
-}
-
-.column:nth-child(2) {
-    background-color: yellow;
-}
-
-.column:nth-child(3) {
-    background-color: green;
+.column-card-list {
+    min-height: 50px;
+    padding: 0;
 }
 
 .column li {
     list-style-type: none;
     text-align: left;
-    background-color: #ffffff;
+    background-color: #C5D83E;
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
