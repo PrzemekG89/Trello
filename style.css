@@ -17,17 +17,13 @@ h2 {
     margin-left: 5px;
 }
 
-.create-kanban {
-    margin: 20px 0;
-}
-
 .board {
     border: 1px solid #ffffff;
     padding: 10px;
 }
 
 .create-column {
-    margin: 0 auto;
+    margin: 5px auto;
     display: block;
 }
 
