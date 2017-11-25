@@ -17,11 +17,6 @@ h2 {
     margin-left: 5px;
 }
 
-.board {
-    border: 1px solid #ffffff;
-    padding: 10px;
-}
-
 .create-column {
     margin: 5px auto;
     display: block;
